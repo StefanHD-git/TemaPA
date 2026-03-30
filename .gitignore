@@ -1,0 +1,4 @@
+echo "*.xml" > .gitignore
+echo "checker_log.txt" >> .gitignore
+echo ".checker_temp/" >> .gitignore
+echo "bin/" >> .gitignore

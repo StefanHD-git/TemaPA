@@ -1,0 +1,10 @@
+services:
+  homework:
+    build: .
+    platform: linux/amd64 
+    container_name: cont
+    volumes:
+      - .:/usr/src/app
+    stdin_open: true
+    tty: true
+#docker exec -it cont bash
