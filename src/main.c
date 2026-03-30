@@ -1,6 +1,6 @@
 #include "task1.h"
 
-int main(int argc, char *argv[])
+int main(int argc, char const *argv[])
 {
     FILE *infile=fopen(argv[1],"rt");
     FILE *outfile=fopen(argv[2],"wt");
