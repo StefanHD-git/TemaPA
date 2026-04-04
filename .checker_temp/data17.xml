@@ -12,8 +12,8 @@
   <line>Command: /usr/src/app/test /usr/src/app/in/data17.in /usr/src/app/out/data17.out</line>
 </preamble>
 
-<pid>530</pid>
-<ppid>488</ppid>
+<pid>349</pid>
+<ppid>336</ppid>
 <tool>memcheck</tool>
 
 <args>
@@ -32,13 +32,13 @@
 
 <status>
   <state>RUNNING</state>
-  <time>00:00:00:00.132 </time>
+  <time>00:00:00:00.096 </time>
 </status>
 
 
 <status>
   <state>FINISHED</state>
-  <time>00:00:00:02.900 </time>
+  <time>00:00:00:02.554 </time>
 </status>
 
 <errorcounts>

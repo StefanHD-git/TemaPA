@@ -1,5 +1,5 @@
-==509==  If you believe this happened as a result of a stack
-==509==  overflow in your program's main thread (unlikely but
-==509==  possible), you can try to increase the size of the
-==509==  main thread stack using the --main-stacksize= flag.
-==509==  The main thread stack size used in this run was 8388608.
+==381==  If you believe this happened as a result of a stack
+==381==  overflow in your program's main thread (unlikely but
+==381==  possible), you can try to increase the size of the
+==381==  main thread stack using the --main-stacksize= flag.
+==381==  The main thread stack size used in this run was 8388608.
